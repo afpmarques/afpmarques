@@ -1,4 +1,4 @@
-# 👋 Yo! I'm André
+# 👋 Yo!
 
 I'm André, a frontend dev who mostly works with React. I used to do full stack, but these days I mostly stick to the frontend. Been doing web stuff for a few years now.
 
