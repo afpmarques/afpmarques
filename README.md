@@ -12,6 +12,3 @@ Lately, I’ve been getting into game dev and trying to improve as an artist (sl
 ### Random goals
 - Make a small game and actually finish it
 - Draw something that doesn’t look cursed
-
-### Say hi
-If you're into the same things or just wanna chat, feel free to reach out.
