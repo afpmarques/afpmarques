@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Hey%20there!%20👋&fontAlign=50&fontAlignY=35&fontSize=40" />
+</p>
+
 ## 👋 Yo!
 
 I'm André, a frontend dev who mostly works with React. I used to do full stack, but these days I mostly stick to the frontend. Been doing web stuff for a few years now.
